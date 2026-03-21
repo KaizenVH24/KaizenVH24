@@ -65,7 +65,7 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 | Platform | Stats |
 |---|---|
 | [LeetCode](https://leetcode.com/u/vinayhulsurkar24/) | 100+ Problems Solved · Contest Rating: 1712 |
-| [Codeforces](https://codeforces.com/profile/vinayhulsurkar24) | Competitive Programming · Max Rating: 336 |
+| [Codeforces](https://codeforces.com/profile/vinayhulsurkar24) | Competitive Programming · Max Rating: 366 |
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vinayhulsurkar24?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/u/vinayhulsurkar24/)
 
