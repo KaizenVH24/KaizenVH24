@@ -1,5 +1,7 @@
 # Vinay Hulsurkar ( KaizenVH24 )
 - "Kaizen means Continuous Improvement"
+
+  
 Computer Engineering student specializing in Data Science and Machine Learning.
 Built deployed ML applications for financial analytics, prediction and intelligent insights.
 Passionate about solving real-world problems through data, algorithms, and scalable systems.
