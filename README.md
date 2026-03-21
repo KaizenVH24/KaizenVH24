@@ -1,5 +1,5 @@
-# Vinay Hulsurkar
-
+# Vinay Hulsurkar ( KaizenVH24 )
+- "Kaizen means Continuous Improvement"
 Computer Engineering student specializing in Data Science and Machine Learning.
 Built deployed ML applications for financial analytics, prediction and intelligent insights.
 Passionate about solving real-world problems through data, algorithms, and scalable systems.
@@ -9,6 +9,7 @@ Passionate about solving real-world problems through data, algorithms, and scala
 [![GitHub](https://img.shields.io/badge/GitHub-KaizenVH24-black?style=flat&logo=github)](https://github.com/KaizenVH24)
 [![LeetCode](https://img.shields.io/badge/LeetCode-vinayhulsurkar24-orange?style=flat&logo=leetcode)](https://leetcode.com/u/vinayhulsurkar24/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-vinayhulsurkar24-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/vinayhulsurkar24)
+[![Instagram](https://img.shields.io/badge/Instagram-@vinayhulsurkar-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vinayhulsurkar/)
 
 ---
 
@@ -56,8 +57,8 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 
 | Platform | Stats |
 |---|---|
-| [LeetCode](https://leetcode.com/u/vinayhulsurkar24/) | 100+ Problems Solved · Contest Rating: 1591 |
-| [Codeforces](https://codeforces.com/profile/vinayhulsurkar24) | Competitive Programming · Current Rating: 800+ |
+| [LeetCode](https://leetcode.com/u/vinayhulsurkar24/) | 100+ Problems Solved · Contest Rating: 1712 |
+| [Codeforces](https://codeforces.com/profile/vinayhulsurkar24) | Competitive Programming · Max Rating: 336 |
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vinayhulsurkar24?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/u/vinayhulsurkar24/)
 
@@ -149,11 +150,6 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 | Real-time Data Processing | Applied Financial Data Science | |
 
 ---
-
-## "Kaizen means Continuous Improvement"
----
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinayhulsurkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayhulsurkar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vinayhulsurkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayhulsurkar@gmail.com)
 
 © 2026 Vinay Hulsurkar
 
