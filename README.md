@@ -13,6 +13,11 @@ Passionate about solving real-world problems through data, algorithms, and scala
 [![Codeforces](https://img.shields.io/badge/Codeforces-vinayhulsurkar24-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/vinayhulsurkar24)
 [![Instagram](https://img.shields.io/badge/Instagram-@vinayhulsurkar-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vinayhulsurkar/)
 
+
+
+[My portfolio website](https://vinayhulsurkar.netlify.app/)
+
+
 ---
 
 ## Education
@@ -145,5 +150,10 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 
 
 © 2026 Vinay Hulsurkar
+
+[![Mail](https://img.shields.io/badge/Mail-vinayhulsurkar%40gmail.com-red?style=flat&logo=gmail)](mailto:vinayhulsurkar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinayhulsurkar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinayhulsurkar/)
+[![GitHub](https://img.shields.io/badge/GitHub-KaizenVH24-black?style=flat&logo=github)](https://github.com/KaizenVH24)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KaizenVH24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
