@@ -143,16 +143,7 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 
 ---
 
-## Currently Exploring
-
-| | | |
-|---|---|---|
-| Large Language Models (LLMs) | Advanced Machine Learning | Data Engineering Concepts |
-| Backend System Design | Competitive Programming | AI Developer Tools |
-| Real-time Data Processing | Applied Financial Data Science | |
-
----
 
 © 2026 Vinay Hulsurkar
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vinayhulsurkar.portfolio)
+![Profile Views](https://komarev.com/ghpvc/?username=KaizenVH24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
