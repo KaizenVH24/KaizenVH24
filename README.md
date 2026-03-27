@@ -77,7 +77,6 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 -->
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizenVH24&show_icons=true&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KaizenVH24&theme=default&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=000000)
 
