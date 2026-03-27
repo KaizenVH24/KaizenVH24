@@ -73,17 +73,13 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 
 ## GitHub Activity
 
-<!-- [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KaizenVH24&theme=default&hide_border=false)](https://github.com/KaizenVH24)
--->
----
-
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KaizenVH24&theme=default&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=000000)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizenVH24&layout=compact&theme=default&bg_color=ffffff&title_color=000000&text_color=000000)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaizenVH24&bg_color=ffffff&color=000000&line=000000&point=000000&area=false)
 
+---
 
 ## Skills
 
