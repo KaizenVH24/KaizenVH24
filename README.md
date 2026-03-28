@@ -15,14 +15,15 @@ Passionate about solving real-world problems through data, algorithms, and scala
 
 
 
-[My portfolio website](https://vinayhulsurkar.netlify.app/)
+### [My portfolio website - Vinay Hulsurkar](https://vinayhulsurkar.netlify.app/)
 
 
 ---
 
 ## Education
 
-**Bachelor Of Engineering – Computer Engineering**
+**Bachelor Of Engineering – Computer Engineering (Honours in Data Science)**
+
 *Nov 2022 – June 2026*
 
 Dr. D. Y. Patil College Of Engineering And Innovation, Pune
@@ -58,14 +59,27 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 - Developed time-series forecasting models and moving-average based analysis to detect short-term trends and potential trading signals.
 - Created interactive visualizations with Matplotlib and Seaborn to highlight volatility zones, support/resistance levels, and seasonal patterns for easier analysis.
 
+### HouseWorth & Credit Analysis | [Live Demo](https://vh-houseworth-and-credit-analysis.streamlit.app/)
+`Python` `Pandas` `Scikit-learn` `Streamlit` `Plotly`
+
+- Built a property valuation and loan risk analysis tool covering 10 Indian cities using a realistic synthetic dataset (~5K records).
+- Trained a Random Forest model (R² ≈ 0.97) to predict housing prices and added CAGR-based forecasting for long-term investment insights.
+- Integrated credit risk logic (DTI & LTI) to estimate loan eligibility, interest rates, and EMI affordability, supported by interactive visualizations.
+
+### VH24-DocMind | [View Code](https://github.com/KaizenVH24/VH24-DocMind) | [Live Demo](https://vh24-ai.streamlit.app/)
+
+- VH24-DocMind is a local Retrieval-Augmented Generation (RAG) application that allows users to ask questions about their own documents.
+- It processes uploaded files, retrieves relevant content using vector similarity, and generates answers using a locally running language model.
+- The system is designed to run entirely offline when used locally with Ollama. A cloud-compatible version is also included for demonstration purposes.
+
 ---
 
 ## DSA Progress
 
 | Platform | Stats |
 |---|---|
-| [LeetCode](https://leetcode.com/u/vinayhulsurkar24/) | 100+ Problems Solved · Contest Rating: 1712 |
-| [Codeforces](https://codeforces.com/profile/vinayhulsurkar24) | Competitive Programming · Max Rating: 366 |
+| [LeetCode](https://leetcode.com/u/vinayhulsurkar24/) | 150+ Problems Solved · Contest Rating: 1712 |
+| [Codeforces](https://codeforces.com/profile/vinayhulsurkar24) | Competitive Programming · Max Rating: 593 |
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vinayhulsurkar24?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/u/vinayhulsurkar24/)
 
