@@ -42,7 +42,7 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 
 <div align="center">
 
-| Description | Value |
+| Title | Description |
 |:--|:--|
 | CGPA | **8.66 / 10.00** |
 | University Rank | **#1 in College** - DBMS |
