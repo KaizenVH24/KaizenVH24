@@ -165,7 +165,7 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=KaizenVH24&theme=default&background=000000&ring=ffa500&fire=ffa500&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffa500&dates=ffffff) <br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=KaizenVH24&theme=dark&background=000000&ring=ffa500&fire=ffa500&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffa500&dates=ffffff) <br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaizenVH24&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=false)
 
