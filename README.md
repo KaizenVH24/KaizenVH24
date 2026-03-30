@@ -154,7 +154,7 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 
 <br>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vinayhulsurkar24?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/u/vinayhulsurkar24/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vinayhulsurkar24?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/vinayhulsurkar24/)
 
 </div>
 
@@ -165,9 +165,9 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=KaizenVH24&theme=default&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=000000) <br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=KaizenVH24&theme=default&background=000000&ring=ffa500&fire=ffa500&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffa500&dates=ffffff) <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaizenVH24&bg_color=ffffff&color=000000&line=000000&point=000000&area=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaizenVH24&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=false)
 
 </div>
 
