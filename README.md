@@ -122,7 +122,7 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 ```
 
 
-### [4. VH24-DocMind](https://vh24-ai.streamlit.app/) | [Code](https://github.com/KaizenVH24/VH24-DocMind)
+### [4. VH24-DocMind](https://vh24-ai.streamlit.app/)
 `Python` `RAG` `Vector DB` `Streamlit` `Ollama`   
 - VH24-DocMind is a local Retrieval-Augmented Generation (RAG) application that allows users to ask questions about their own documents.
 - It processes uploaded files, retrieves relevant content using vector similarity, and generates answers using a locally running language model.
