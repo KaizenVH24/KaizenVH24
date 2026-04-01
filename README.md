@@ -23,7 +23,8 @@ Passionate about solving real-world problems through data, algorithm and scalabl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayhulsurkar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KaizenVH24)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinayhulsurkar24/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vinayhulsurkar24)
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vinayhulsurkar/)
 
 </div>
@@ -47,9 +48,8 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 | CGPA | **8.66 / 10.00** |
 | University Rank | **#1 in College** - DBMS |
 | Scholarship | **Full Merit · 4-Year Program** |
-| University Standing | **Top 10** - 3rd Year |
-| LeetCode Rating | **1712** - 150+ Problems |
-| Codeforces Max Rating | **593** |
+| University Standing | **Top 10** - 2nd Year |
+| LeetCode Rating | **1712** - 175+ Problems |
 | Deployed Apps | **3** - Live on Streamlit |
 
 </div
@@ -147,10 +147,11 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 
 <div align="center">
   
-| Platform | Stats |
-|---|---|
-| [LeetCode](https://leetcode.com/u/vinayhulsurkar24/) | 150+ Problems Solved · Contest Rating: 1712 |
-| [Codeforces](https://codeforces.com/profile/vinayhulsurkar24) | Competitive Programming · Max Rating: 593 |
+[LeetCode](https://leetcode.com/u/vinayhulsurkar24/)  
+
+175+ Problems Solved 
+
+Contest Rating: 1712 
 
 <br>
 
