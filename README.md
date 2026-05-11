@@ -151,9 +151,9 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
   
 [LeetCode](https://leetcode.com/u/vinayhulsurkar24/)  
 
-175+ Problems Solved 
+200+ Problems Solved 
 
-Contest Rating: 1712 
+Contest Rating: 1834 
 
 <br>
 
@@ -169,8 +169,6 @@ Contest Rating: 1712
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=KaizenVH24&theme=dark&cache_seconds=000000)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaizenVH24&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=false)
 
 </div>
 
