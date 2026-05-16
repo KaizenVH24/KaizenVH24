@@ -1,6 +1,7 @@
 <div align="center">
 
-### <h1> Vinay Hulsurkar aka VH24 </h1>
+### <h1> Vinay Hulsurkar</h1>
+<p>#KaizenVH24</p>
 
 
 
@@ -14,19 +15,20 @@
 
 <div align="center">
 
-Computer Engineering student specializing in Data Science and Machine Learning.
-Built deployed ML applications for financial analytics, prediction and intelligent insights.
-Passionate about solving real-world problems through data, algorithm and scalable systems.
+Hello, I'm Vinay Hulsurkar, a Data Science and Computer Engineering honors student driven by a passion for building intelligent, scalable systems. Backed by a full academic scholarship and top-tier university rankings, my foundation is built on both academic excellence and rigorous practical application.
+
+
+My technical expertise spans the entire machine learning lifecycle. Recently, I have architected clustering algorithms to optimize targeted marketing, deployed production-ready Retrieval-Augmented Generation (RAG) frameworks to eliminate model hallucination, and built predictive models for financial anomaly detection and real estate valuation. Beyond engineering robust data pipelines, I have a deep-rooted passion for algorithmic problem-solving, which is reflected in my top 7% global LeetCode ranking.
+
+
+
+You can explore my projects and connect with me here:
+
 
 ### [My portfolio website - Vinay Hulsurkar](https://vinayhulsurkar.netlify.app/)
 
-[![Mail](https://img.shields.io/badge/—%20vinayhulsurkar%40gmail.com%20—-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayhulsurkar@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayhulsurkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KaizenVH24)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinayhulsurkar24/)
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vinayhulsurkar/)
 
 </div>
@@ -50,9 +52,8 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 | CGPA | **8.66 / 10.00** |
 | University Rank | **#1 in College** - DBMS |
 | Scholarship | **Full Merit · 4-Year Program** |
-| University Standing | **Top 10** - 2nd Year |
-| LeetCode Rating | **1712** - 175+ Problems |
-| Deployed Apps | **3** - Live on Streamlit |
+| College Standing | **Top 10** - 2nd Year |
+| LeetCode Rating | **1834** - 220+ Problems |
 
 </div
 <br> <br>
@@ -62,7 +63,7 @@ Dr. D. Y. Patil College Of Engineering And Innovation, Pune
 
 ## Work Experience
 
-**Data Science Intern** | [View Work](https://github.com/KaizenVH24/VH24-Internship/tree/main)  
+**Data Science Intern** -- 
 *Mainflow Services & Technology Pvt Ltd* (Jan 2025 – Feb 2025)  
 - Built a customer segmentation model using K-Means (Scikit-learn) to group customers and support targeted marketing decisions.
 - Developed a house price prediction model using Linear Regression, improving prediction accuracy and reducing RMSE compared to the baseline.
