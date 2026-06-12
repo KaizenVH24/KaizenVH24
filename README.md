@@ -39,7 +39,7 @@ You can explore my projects and connect with me here:
 
 <div align="center">
   
-[LeetCode](https://leetcode.com/u/vinayhulsurkar24/)  
+### <h2>[LeetCode](https://leetcode.com/u/vinayhulsurkar24/)</h2>
 
 
 <br>
