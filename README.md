@@ -6,14 +6,12 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Kaizen+%E2%80%94+Continuous+Improvement.;Data+Science+%2B+Machine+Learning.;Building+things+that+think.;Turning+noise+into+signal.;A+Minimalist!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=A+Minimalist!;Kaizen+%E2%80%94+Continuous+Improvement.;Data+Science+%2B+Machine+Learning.;Building+things+that+think." alt="Typing SVG" />
 
 </div>
 
 ---
 
-
-<div align="center">
 
 Hello, I'm Vinay Hulsurkar, a Data Science and Computer Engineering honors student driven by a passion for building intelligent, scalable systems. Backed by a full academic scholarship and top-tier university rankings, my foundation is built on both academic excellence and rigorous practical application.
 
@@ -24,12 +22,9 @@ My technical expertise spans the entire machine learning lifecycle. Recently, I 
 
 You can explore my projects and connect with me here:
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayhulsurkar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinayhulsurkar24/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vinayhulsurkar/)
-
-</div>
 
 
 ---
@@ -39,10 +34,6 @@ You can explore my projects and connect with me here:
 
 <div align="center">
   
-### <h2>[LeetCode](https://leetcode.com/u/vinayhulsurkar24/)</h2>
-
-
-<br>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vinayhulsurkar24?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/vinayhulsurkar24/)
 
@@ -77,10 +68,12 @@ You can explore my projects and connect with me here:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-### **Databases & Tools** <br>
+### **Databases** <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+### **Tools** <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -91,6 +84,7 @@ You can explore my projects and connect with me here:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 
 
 ---
@@ -109,11 +103,10 @@ You can explore my projects and connect with me here:
   └────────────────────────────────────────────────────────────────┘
 ```
 
-© 2026 Vinay Hulsurkar | KaizenVH24 <br> Maharashtra, India
 
 [![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayhulsurkar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayhulsurkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KaizenVH24)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vinayhulsurkar/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KaizenVH24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
