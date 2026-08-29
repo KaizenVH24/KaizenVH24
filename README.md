@@ -6,7 +6,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=A+Minimalist!;Kaizen+%E2%80%94+Continuous+Improvement.;Data+Science+%2B+Machine+Learning.;Building+things+that+think." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=A+Minimalist!;Kaizen+%E2%80%94+Continuous+Improvement.;Data+Science+%2B+Machine+Learning.;Building+things+that+think." alt="Typing SVG" />
 
 </div>
 
