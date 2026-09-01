@@ -24,8 +24,7 @@ You can explore my projects and connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayhulsurkar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinayhulsurkar24/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vinayhulsurkar/)
-
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayhulsurkar@gmail.com)
 
 ---
 
@@ -92,21 +91,11 @@ You can explore my projects and connect with me here:
 
 <div align="center">
 
-```
-  ┌────────────────────────────────────────────────────────────────┐
-  │                                                                │
-  │   loss     = ∞    (day one)                                    │
-  │   loss     → 0    (every day after, if you stay consistent)    │
-  │                                                                │
-  │   — that's Kaizen                                              │
-  │                                                                │
-  └────────────────────────────────────────────────────────────────┘
-```
 
-
-[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayhulsurkar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayhulsurkar/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vinayhulsurkar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinayhulsurkar24/)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayhulsurkar@gmail.com)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KaizenVH24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
