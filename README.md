@@ -26,6 +26,9 @@ You can explore my projects and connect with me here:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinayhulsurkar24/)
 [![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayhulsurkar@gmail.com)
 
+
+Visit my portfolio website here;  [Click here!](https://vinayhulsurkar.netlify.app/)
+
 ---
 
 
@@ -34,7 +37,7 @@ You can explore my projects and connect with me here:
 <div align="center">
   
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vinayhulsurkar24?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/vinayhulsurkar24/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vinayhulsurkar24?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/u/vinayhulsurkar24/)
 
 </div>
 
@@ -96,6 +99,10 @@ You can explore my projects and connect with me here:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinayhulsurkar24/)
 [![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayhulsurkar@gmail.com)
 
+
+Visit my portfolio website here;  [Click here!](https://vinayhulsurkar.netlify.app/)
+
+### <h1> Thank You! </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KaizenVH24&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
